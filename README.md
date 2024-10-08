@@ -1,4 +1,4 @@
-- 👋 Hi, I’m p Jayant kumar
+- 👋 Hi, I’m P Jayant Kumar
 - 👀 I’m interested in ...learning new things everyday
 - 🌱 I’m currently learning ...python, web development
 - 💞️ I’m looking to collaborate on ...
