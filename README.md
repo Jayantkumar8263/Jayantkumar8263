@@ -1,10 +1,7 @@
-- 👋 Hi, I’m P Jayant Kumar
-- 👀 I’m interested in ...learning new things everyday
-- 🌱 I’m currently learning ...python, web development, vedio editing, Power BI
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m P. Jayant Kumar 
+- 👀 I’m interested in learning new things every day. 
+- 🌱 I’m currently learning Python, web development, video editing, and Power BI.
 - 📫 How to reach me ... 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... 
 
 <!---
 Jayantkumar8263/Jayantkumar8263 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
